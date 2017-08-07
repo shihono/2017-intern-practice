@@ -1,15 +1,28 @@
 # 2017-intern-practice
 
-* this is database branch.
+=======
+ task list
+ 
+ 1. GitHub
+ - [x] all
+ 
+ 2. python
+ - [x] all
+ 
+ 3. RDB
+ - [x] 1
+ - [x] 2
+ - [x] 3
+ - [x] 4
 
-* NLP 100 knock chapter 7 
 
+ 
+ 4. html
+ - [ ] 1
+ - [ ] 2
+ - [ ] 3
 
-* 更新メモ
-* 8/1
-  * data_sqlite.py : artist.jsonからmusician.dbを作成
-  
-* 8/4
-    * 3_1.py
-    * 3_2recordsearch.py
-    * 3_3sqlgroupy.py
+ 5. python package
+ - [ ] 1
+ - [ ] 2
+ - [ ] 3
